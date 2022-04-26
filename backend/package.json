@@ -1,0 +1,49 @@
+{
+  "name": "uranus-bank-backend",
+  "version": "1.0.0",
+  "author": {
+    "name": "MrGeminus",
+    "email": "contact@mrgeminus.com",
+    "url": "http://mrgeminus.com/"
+  },
+  "description": "This is the backend part of the Uranus Bank application",
+  "keywords": [
+    "Express",
+    "MongoDB",
+    "JWT",
+    "Back-End",
+    "Uranus Bank"
+  ],
+  "homepage": "https://github.com/MrGeminus/uranus-bank/backend#readme",
+  "bugs": {
+    "url": "https://github.com/MrGeminus/uranus-bank/issues",
+    "email": "support@mrgeminus.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "license": "MIT",
+  "funding": [
+    {
+      "type": "Buy Me A Coffee",
+      "url": "https://www.buymeacoffee.com/mrgeminus"
+    },
+    {
+      "type": "Subscribe Star",
+      "url": "https://www.subscribestar.com/mrgeminus"
+    }
+  ]
+}

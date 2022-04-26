@@ -1,0 +1,72 @@
+{
+  "name": "uranus-bank-frontend",
+  "version": "1.0.0",
+  "author": {
+    "name": "MrGeminus",
+    "email": "contact@mrgeminus.com",
+    "url": "http://mrgeminus.com/"
+  },
+  "description": "This is the frontend part of the Uranus Bank application",
+  "keywords": [
+    "Mobile-first",
+    "React",
+    "Axios",
+    "TypeScript",
+    "Front-End"
+  ],
+  "homepage": "https://github.com/MrGeminus/uranus-bank/frontend#readme",
+  "bugs": {
+    "url": "https://github.com/MrGeminus/uranus-bank/issues",
+    "email": "support@mrgeminus.com"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^16.11.28",
+    "@types/react": "^18.0.6",
+    "@types/react-dom": "^18.0.2",
+    "axios": "^0.26.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.6.3",
+    "web-vitals": "^2.1.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "license": "MIT",
+  "funding": [
+    {
+      "type": "Buy Me A Coffee",
+      "url": "https://www.buymeacoffee.com/mrgeminus"
+    },
+    {
+      "type": "Subscribe Star",
+      "url": "https://www.subscribestar.com/mrgeminus"
+    }
+  ]
+}
